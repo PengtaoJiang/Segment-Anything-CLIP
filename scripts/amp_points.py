@@ -270,7 +270,7 @@ def main(args: argparse.Namespace) -> None:
 
         h, w = image.shape[:2]
         ## input points 
-        input_points_list = [[int(w*0.2), int(h*0.5)]]
+        input_points_list = [[250, 250]]
         label_list = [1]
 
         points_cood = np.stack(input_points_list)
