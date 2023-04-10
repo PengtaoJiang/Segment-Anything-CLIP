@@ -16,3 +16,7 @@ The three masks and corresponding predicted category are as follows:
 <center>
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/outs.png" width="100%" height="50%"> 
 </center>
+
+<center>
+<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/logits.png" width="100%" height="50%"> 
+</center>
