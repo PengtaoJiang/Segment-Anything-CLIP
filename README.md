@@ -23,3 +23,10 @@ The three masks and corresponding predicted category are as follows:
 <center>
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/logits.png" width="100%" height="50%"> 
 </center>
+
+You can change the point location at L273-274 of ```scripts/amp_points.py```.
+```
+## input points 
+input_points_list = [[250, 250]]
+label_list = [1]
+```
