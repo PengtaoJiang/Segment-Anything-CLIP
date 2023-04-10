@@ -13,7 +13,7 @@ Input an example image and a point (int(w\*0.2), int(h\*0.5)) to the SAM model. 
 <center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="50%" height="50%"></center>
 
 The three masks and corresponding predicted category are as follows:
-
 <center>
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/outs.png" width="100%" height="50%"> 
 </center>
+We crop each image patch and send to the clip model to get top-5 predicted categories:
