@@ -10,7 +10,9 @@ sh run.sh
 ## Example 
 Input an example image and a point to the SAM model. The input image and output three masks as follows:
 <center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="50%" height="50%"></center>
+
 The three masks and corresponding predicted category are as follows:
+
 <center>
-<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/outs.png" width="50%" height="50%"> 
+<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/outs.png" width="100%" height="50%"> 
 </center>
