@@ -10,3 +10,6 @@ sh run.sh
 ## Example 
 Input an example image and a point to the SAM model. The input image and output three masks as follows:
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="30%" height="50%">
+<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="30%" height="50%">
+<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="30%" height="50%">
+<img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="30%" height="50%">
