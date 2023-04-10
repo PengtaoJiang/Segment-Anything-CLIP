@@ -3,7 +3,8 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/pipeline.png" width="100%" height="50%">
 
 ## Todo
-We plan to finetune on the COCO and LVIS datasets.  
+1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
+2. We plan to finetune on the COCO and LVIS datasets.  
 
 
 ## Run Demo
