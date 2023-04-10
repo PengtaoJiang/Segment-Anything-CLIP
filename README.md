@@ -3,7 +3,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/pipeline.png" width="100%" height="50%">
 
 ## Run Demo
-Download the [sam_vit_h_4b8939.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) model from the SAM repository. Install the clip lib using the following command:
+Download the [sam_vit_h_4b8939.pth](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) model from the SAM repository and put it at ```./```. Install the clip lib using the following command:
 ```
 pip install git+https://github.com/openai/CLIP.git
 ```
