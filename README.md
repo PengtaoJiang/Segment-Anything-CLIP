@@ -11,6 +11,6 @@ sh run.sh
 Input an example image and a point to the SAM model. The input image and output three masks as follows:
 <center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/ADE_val_00000001.jpg" width="50%" height="50%"></center>
 The three masks and corresponding predicted category are as follows:
-<div align=center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/0.png" width="50%" height="50%"></div>
-<div align=center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/1.png" width="50%" height="50%"></div>
-<div align=center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/2.png" width="50%" height="50%"></div>
+<div align=left><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/0.png" width="30%" height="50%"></div>
+<div align=center><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/1.png" width="30%" height="50%"></div>
+<div align=right><img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/outs/ADE_val_00000001/2.png" width="30%" height="50%"></div>
