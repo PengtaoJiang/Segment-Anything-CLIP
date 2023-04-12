@@ -3,9 +3,12 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/pipeline.png" width="100%" height="50%">
 
 ## Other Nice Works
+#### Editing-Related Works
 1. [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) 
-2. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
-3. [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
+2. [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
+
+#### Segmentation-Related Works
+3. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
 4. [Curt-Park/segment-anything-with-clip](https://github.com/Curt-Park/segment-anything-with-clip)  
 5. [kadirnar/segment-anything-video](https://github.com/kadirnar/segment-anything-video) 
 6. [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) 
