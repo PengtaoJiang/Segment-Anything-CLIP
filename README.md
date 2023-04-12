@@ -3,6 +3,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/pipeline.png" width="100%" height="50%">
 
 ## Other Nice Works
+
 #### Editing-Related Works
 1. [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) 
 2. [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
