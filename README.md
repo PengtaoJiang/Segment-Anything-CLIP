@@ -2,6 +2,19 @@
 We aim to classify the output masks of [segment-anything](https://github.com/facebookresearch/segment-anything) with the off-the-shelf [CLIP](https://github.com/openai/CLIP) models. The cropped image corresponding to each mask is sent to the CLIP model.
 <img src="https://github.com/PengtaoJiang/SAM-CLIP/blob/main/imgs/pipeline.png" width="100%" height="50%">
 
+## Other Nice Works
+1. [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) 
+2. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
+3. [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
+4. [Curt-Park/segment-anything-with-clip](https://github.com/Curt-Park/segment-anything-with-clip)  
+5. [kadirnar/segment-anything-video](https://github.com/kadirnar/segment-anything-video) 
+6. [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) 
+7. [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) 
+8. [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) 
+9. [achalddave/segment-any-moving](https://github.com/achalddave/segment-any-moving)  
+10. [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything)
+
+
 ## Todo
 1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
 2. We plan to finetune on the COCO and LVIS datasets.  
