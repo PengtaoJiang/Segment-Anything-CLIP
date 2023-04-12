@@ -12,7 +12,12 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 7. [continue-revolution/sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) 
 8. [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything) 
 9. [achalddave/segment-any-moving](https://github.com/achalddave/segment-any-moving)  
-10. [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything)
+10. [ttengwang/Caption-Anything](https://github.com/ttengwang/Caption-Anything)  
+11. [ngthanhtin/owlvit_segment_anything](https://github.com/ngthanhtin/owlvit_segment_anything)   
+12. [lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything)
+13. [helblazer811/RefSAM](https://github.com/helblazer811/RefSAM)  
+14. [Hedlen/awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything)  
+15. [ziqi-jin/finetune-anythin](https://github.com/ziqi-jin/finetune-anything)
 
 
 ## Todo
