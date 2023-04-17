@@ -7,6 +7,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 #### Editing-Related Works
 1. [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) 
 2. [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) 
+3. [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
 
 #### Segmentation-Related Works
 3. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
