@@ -10,6 +10,10 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 3. [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)
 4. [Luodian/RelateAnything](https://github.com/Luodian/RelateAnything)
 
+#### Nerf-Related Works 
+1. [ashawkey/Segment-Anything-NeR](https://github.com/ashawkey/Segment-Anything-NeRF)
+2. [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D)
+
 #### Segmentation-Related Works
 1. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
 2. [Curt-Park/segment-anything-with-clip](https://github.com/Curt-Park/segment-anything-with-clip)  
@@ -26,6 +30,8 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 13. [ylqi/Count-Anything](https://github.com/ylqi/Count-Anything)
 14. [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) 
 15. [xmed-lab/CLIP_Surgery](https://github.com/xmed-lab/CLIP_Surgery)
+16. [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything)
+17. [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything)
 
 ## Todo
 1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
