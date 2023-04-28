@@ -37,6 +37,9 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 1. [gaomingqi/track-anything](https://github.com/gaomingqi/track-anything) 
 2. [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) 
 
+#### Medical-Related Works
+1. [bowang-lab/medsam](https://github.com/bowang-lab/medsam)
+
 ## Todo
 1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
 2. We plan to finetune on the COCO and LVIS datasets.  
