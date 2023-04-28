@@ -32,6 +32,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 15. [xmed-lab/CLIP_Surgery](https://github.com/xmed-lab/CLIP_Surgery)
 16. [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything)
 17. [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything)
+18. [Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
 
 ## Todo
 1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
