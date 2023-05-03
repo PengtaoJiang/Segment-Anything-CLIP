@@ -11,7 +11,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 4. [Luodian/RelateAnything](https://github.com/Luodian/RelateAnything)
 
 #### Nerf-Related Works 
-1. [ashawkey/Segment-Anything-NeR](https://github.com/ashawkey/Segment-Anything-NeRF)
+1. [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF)
 2. [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D)
 3. [Jun-CEN/SegmentAnyRGBD](https://github.com/Jun-CEN/SegmentAnyRGBD)
 
