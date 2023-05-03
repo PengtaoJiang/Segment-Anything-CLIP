@@ -41,6 +41,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 
 #### Medical-Related Works
 1. [bowang-lab/medsam](https://github.com/bowang-lab/medsam)
+2. [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed)
 
 ## Todo
 1. We plan connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
