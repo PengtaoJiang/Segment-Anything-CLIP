@@ -41,7 +41,8 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 
 #### Tracking-Related Works
 1. [gaomingqi/track-anything](https://github.com/gaomingqi/track-anything) 
-2. [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) 
+2. [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything)
+3. [achalddave/segment-any-moving](https://github.com/achalddave/segment-any-moving)
 
 #### Medical-Related Works
 1. [bowang-lab/medsam](https://github.com/bowang-lab/medsam)
