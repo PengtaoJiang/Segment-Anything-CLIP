@@ -33,6 +33,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 15. [RockeyCoss/Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything)
 16. [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything)
 17. [Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
+18. [aim-uofa/Matcher](https://github.com/aim-uofa/Matcher)
 
 #### Labelling-Related Works
 1. [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)
