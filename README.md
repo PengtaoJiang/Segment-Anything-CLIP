@@ -14,6 +14,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 1. [ashawkey/Segment-Anything-NeRF](https://github.com/ashawkey/Segment-Anything-NeRF)
 2. [Anything-of-anything/Anything-3D](https://github.com/Anything-of-anything/Anything-3D)
 3. [Jun-CEN/SegmentAnyRGBD](https://github.com/Jun-CEN/SegmentAnyRGBD)
+4. [Pointcept/SegmentAnything3D](https://github.com/Pointcept/SegmentAnything3D)
 
 #### Segmentation-Related Works
 1. [maxi-w/CLIP-SAM](https://github.com/maxi-w/CLIP-SAM)  
@@ -34,6 +35,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 16. [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything)
 17. [Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
 18. [aim-uofa/Matcher](https://github.com/aim-uofa/Matcher)
+
 
 #### Labelling-Related Works
 1. [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)
