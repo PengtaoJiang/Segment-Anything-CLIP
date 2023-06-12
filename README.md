@@ -35,6 +35,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 16. [segments-ai/panoptic-segment-anything](https://github.com/segments-ai/panoptic-segment-anything)
 17. [Cheems-Seminar/grounded-segment-any-parts](https://github.com/Cheems-Seminar/grounded-segment-any-parts)
 18. [aim-uofa/Matcher](https://github.com/aim-uofa/Matcher)
+19. [SysCV/sam-hq](https://github.com/SysCV/sam-hq)
 
 
 #### Labelling-Related Works
