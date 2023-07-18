@@ -39,7 +39,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 20. [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 21. [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 22. [JamesQFreeman/Sam_LoRA](https://github.com/JamesQFreeman/Sam_LoRA)
-
+23. [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
 
 #### Labelling-Related Works
 1. [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)
