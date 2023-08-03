@@ -40,6 +40,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 21. [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM)
 22. [JamesQFreeman/Sam_LoRA](https://github.com/JamesQFreeman/Sam_LoRA)
 23. [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM)
+24. [cskyl/SAM_WSSS](https://github.com/cskyl/SAM_WSSS)
 
 #### Labelling-Related Works
 1. [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)
