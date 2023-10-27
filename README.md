@@ -56,6 +56,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 1. [bowang-lab/medsam](https://github.com/bowang-lab/medsam)
 2. [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed)
 3. [cchen-cc/MA-SAM](https://github.com/cchen-cc/MA-SAM#ma-sam-modality-agnostic-sam-adaptation-for-3d-medical-image-segmentation)
+4. [OpenGVLab/SAM-Med2D](https://github.com/OpenGVLab/SAM-Med2D)
 
 ## Todo
 1. We plan to connect segment-anything with [MaskCLIP](https://github.com/chongzhou96/MaskCLIP).  
