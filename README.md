@@ -43,6 +43,7 @@ We aim to classify the output masks of [segment-anything](https://github.com/fac
 24. [cskyl/SAM_WSSS](https://github.com/cskyl/SAM_WSSS)
 25. [ggsDing/SAM-CD](https://github.com/ggsDing/SAM-CD)
 26. [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM)
+27. [XiaRho/SEMat](https://github.com/XiaRho/SEMat)
 
 #### Labelling-Related Works
 1. [vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)
